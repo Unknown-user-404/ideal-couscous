@@ -2,7 +2,7 @@
 Bad Apple But in ASCII!
 
 # About
-I've been using this script to turn the legendary bad apple to ascii form, I came up with this idea when I encountered an video to ascii tutorial,
+I've been using this script to turn the legendary bad apple to ascii form, I came up with this idea when I encountered a video to ascii tutorial,
 
 then I took some inspiration and help from the internet, and the project is formed!
 
